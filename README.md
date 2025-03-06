@@ -1,3 +1,3 @@
 # my_blog
 
-test0dd
+Welcome Issac Lee's Blog
